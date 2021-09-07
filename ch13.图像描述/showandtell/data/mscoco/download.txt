@@ -1,0 +1,3 @@
+—µ¡∑Õº∆¨ºØhttp://msvocds.blob.core.windows.net/coco2014/train2014.zip
+
+∆¿π¿Õº∆¨ºØhttp://msvocds.blob.core.windows.net/coco2014/val2014.zip
