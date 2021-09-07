@@ -1,0 +1,4 @@
+﻿1.	打开cmd控制台，cd到工程路径，如E:\C6_DeepLab_TF
+2.	执行：pip install -r requirements.txt
+3.	根据dataset和ini_model这两个文件下的下载说明，准备好训练数据和pretrain模型
+4.	训练使用train.py，批量测试使用evaluate.py，单图测试使用inference.py
